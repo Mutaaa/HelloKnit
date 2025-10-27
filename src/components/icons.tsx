@@ -50,6 +50,6 @@ export const Logo = () => (
     <div className="rounded-lg bg-primary p-1.5">
         <YarnIcon className="h-5 w-5 text-primary-foreground" />
     </div>
-    <span>KnitTrack</span>
+    <span>HelloKnit</span>
   </div>
 );

@@ -21,7 +21,7 @@ import { Archive, LayoutGrid, Settings, PlusCircle } from "lucide-react";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 
 export const metadata: Metadata = {
-  title: "KnitTrack",
+  title: "HelloKnit",
   description: "Track your knitting projects with ease.",
 };
 
@@ -88,7 +88,7 @@ export default function RootLayout({
                 </Avatar>
                 <div className="flex flex-col text-sm">
                   <span className="font-semibold text-foreground">User</span>
-                  <span className="text-muted-foreground">user@knittrack.com</span>
+                  <span className="text-muted-foreground">user@helloknit.com</span>
                 </div>
               </div>
             </SidebarFooter>
@@ -97,7 +97,7 @@ export default function RootLayout({
             <header className="flex h-14 items-center gap-4 border-b bg-background/95 px-4 sticky top-0 z-40 backdrop-blur-sm">
               <SidebarTrigger className="md:hidden" />
               <div className="flex-1">
-                <h1 className="text-lg font-semibold md:text-xl font-headline">KnitTrack</h1>
+                <h1 className="text-lg font-semibold md:text-xl font-headline">HelloKnit</h1>
               </div>
             </header>
             <main className="flex-1 p-4 sm:p-6">{children}</main>
