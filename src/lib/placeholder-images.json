@@ -1,3 +1,58 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "blue-scarf",
+      "description": "A finished blue knitted scarf",
+      "imageUrl": "https://images.unsplash.com/photo-1609803384069-19f3e5a70e75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxrbml0dGVkJTIwc2NhcmZ8ZW58MHx8fHwxNzYxNTU3MDU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "knitted scarf"
+    },
+    {
+      "id": "green-beanie",
+      "description": "A knitted beanie in forest green",
+      "imageUrl": "https://images.unsplash.com/photo-1734046281636-2a33525bc76f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxrbml0dGVkJTIwYmVhbmllfGVufDB8fHx8MTc2MTUwMjU4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "knitted beanie"
+    },
+    {
+      "id": "sunset-shawl",
+      "description": "A lace shawl with sunset colors",
+      "imageUrl": "https://images.unsplash.com/photo-1577084381419-8141b7840a08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxsYWNlJTIwc2hhd2x8ZW58MHx8fHwxNzYxNTU3MDU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lace shawl"
+    },
+    {
+      "id": "baby-sweater",
+      "description": "A small yellow knitted baby sweater",
+      "imageUrl": "https://images.unsplash.com/photo-1589437806467-9c28e135d9b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiYWJ5JTIwc3dlYXRlcnxlbnwwfHx8fDE3NjE1NTcwNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "baby sweater"
+    },
+    {
+      "id": "yarn-purple",
+      "description": "A skein of purple yarn",
+      "imageUrl": "https://images.unsplash.com/photo-1638135606929-580b9da9f65b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwdXJwbGUlMjB5YXJufGVufDB8fHx8MTc2MTU1NzA1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "purple yarn"
+    },
+    {
+      "id": "yarn-white",
+      "description": "A skein of natural white yarn",
+      "imageUrl": "https://images.unsplash.com/photo-1638135606551-f46f517bcb64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3aGl0ZSUyMHlhcm58ZW58MHx8fHwxNzYxNTU3MDU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "white yarn"
+    },
+    {
+      "id": "yarn-gray",
+      "description": "A skein of gray sock yarn",
+      "imageUrl": "https://images.unsplash.com/photo-1513890333407-6f85205e8ef2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxncmF5JTIweWFybnxlbnwwfHx8fDE3NjE1NTcwNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gray yarn"
+    },
+    {
+      "id": "yarn-yellow",
+      "description": "Skeins of yellow cotton yarn",
+      "imageUrl": "https://images.unsplash.com/photo-1616168055880-27a485459795?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx5ZWxsb3clMjB5YXJufGVufDB8fHx8MTc2MTU1NzA1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "yellow yarn"
+    },
+    {
+      "id": "yarn-cream",
+      "description": "Skeins of cream bulky yarn",
+      "imageUrl": "https://images.unsplash.com/photo-1670764732015-61a5cc490ce1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjcmVhbSUyMHlhcm58ZW58MHx8fHwxNzYxNTU3MDU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cream yarn"
+    }
+  ]
 }
